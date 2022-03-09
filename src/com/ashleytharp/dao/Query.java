@@ -4,7 +4,7 @@ import java.sql.Statement;
 
 import java.sql.ResultSet;
 
-import static sample.DAO.DBConnection.conn;
+import static com.ashleytharp.dao.DBConnection.conn;
 
 /**
  * Project: Ashley Tharp DAODemo2022
