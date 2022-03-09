@@ -1,3 +1,9 @@
+# Note: this project was built with IntelliJ IDEA. 
+
+# Should the .idea folder be added to source control?
+# Yes, because all the developers that use IDEA should be using the same project files.
+# If other developers use other IDEs, they should add their project files to Source Control also.
+
 # Compiled class file
 *.class
 
