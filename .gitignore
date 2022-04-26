@@ -1,4 +1,9 @@
 # Note: this project was built with IntelliJ IDEA. 
+#
+
+out/
+*~
+*.*~
 
 # Should the .idea folder be added to source control?
 # Yes, because all the developers that use IDEA should be using the same project files.
